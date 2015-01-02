@@ -1,0 +1,1073 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"m",
+				"my_stack"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"wo",
+				"word_start"
+			],
+			[
+				"b",
+				"border_len"
+			],
+			[
+				"stu",
+				"student"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"be",
+				"beginend	$1.begin(), $1.end()"
+			],
+			[
+				"st",
+				"students"
+			],
+			[
+				"n",
+				"newcpp	Using statement"
+			],
+			[
+				"txt",
+				"txt_size"
+			],
+			[
+				"vec",
+				"vec"
+			],
+			[
+				"for",
+				"for_	For Loop"
+			],
+			[
+				"boo",
+				"bookName"
+			],
+			[
+				"us",
+				"usingt	Using statement (templated)"
+			],
+			[
+				"i",
+				"item1"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"C",
+				"celsius"
+			],
+			[
+				"ca",
+				"calculatePostage"
+			],
+			[
+				"S",
+				"ShoppingCart"
+			],
+			[
+				"sh",
+				"ShoppingCart"
+			],
+			[
+				"pair",
+				"pair2"
+			],
+			[
+				"set",
+				"setKey"
+			],
+			[
+				"main",
+				"main	method (main)"
+			],
+			[
+				"o",
+				"occurs_free_in"
+			],
+			[
+				"P",
+				"p"
+			],
+			[
+				"str",
+				"strength"
+			],
+			[
+				"pr",
+				"printlist"
+			],
+			[
+				"fold",
+				"fold_result"
+			],
+			[
+				"al",
+				"alpha2"
+			],
+			[
+				"sum",
+				"sum_pair_lists"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Ch1/r16_ptr_array.cpp",
+			"settings":
+			{
+				"buffer_size": 377,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Ch1/r16_ptr_array",
+			"settings":
+			{
+				"buffer_size": 21570,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Builds/Java.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"File: Copy Path"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"togg li",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"togg lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"StatusMessage: Show scope name"
+			],
+			[
+				"in",
+				"Auto indent"
+			],
+			[
+				"lint ti",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"lin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"pat",
+				"File: Copy Path"
+			],
+			[
+				"ressour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"cpath",
+				"File: Copy Path"
+			],
+			[
+				"PEV",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"browse pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"format",
+				"CSV: Format"
+			],
+			[
+				"sni",
+				"Snippet: #include <…>"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"snit",
+				"Snippet: Typedef"
+			],
+			[
+				"form",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"buff",
+				"Create Xiki Buffer"
+			],
+			[
+				"cik",
+				"Create Xiki Buffer"
+			],
+			[
+				"xiki",
+				"Set Syntax: Xiki"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"copy ",
+				"ANF: Copy Current File"
+			],
+			[
+				"RView",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"settings u",
+				"Preferences: Settings - User"
+			],
+			[
+				"viewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ciki",
+				"Create Xiki Buffer"
+			],
+			[
+				"xi",
+				"Create Xiki Buffer"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"inde",
+				"Indent JSON"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"con",
+				"Convert Case: Upper Case"
+			],
+			[
+				"select",
+				"Rot13 Selection"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"todo",
+				"Set Syntax: Todo"
+			],
+			[
+				"bu",
+				"Javatar: Builds..."
+			],
+			[
+				"crea",
+				"Javatar: Create new..."
+			],
+			[
+				"create",
+				"Javatar: Create new..."
+			],
+			[
+				"javata",
+				"Javatar: Create new..."
+			],
+			[
+				"bui",
+				"Javatar: Builds..."
+			],
+			[
+				"column ",
+				"CSV: Select column"
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"sml",
+				"Set Syntax: SML"
+			],
+			[
+				"temr",
+				"Open in terminal"
+			],
+			[
+				"term",
+				"Open in terminal"
+			],
+			[
+				"se java",
+				"Set Syntax: Java"
+			],
+			[
+				"merg",
+				"Sublimerge"
+			],
+			[
+				"bin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"SML",
+				"Set Syntax: SML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"forma",
+				"CSV: Format"
+			],
+			[
+				"csv",
+				"CSV: Format"
+			],
+			[
+				"c",
+				"CSV: Format"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sj",
+				"Set Syntax: JSON"
+			],
+			[
+				"bind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"buid",
+				"Javatar: Builds..."
+			],
+			[
+				"javatar",
+				"Javatar: Create new..."
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"swa",
+				"Convert Case: Swap Case"
+			],
+			[
+				"",
+				"Convert Case: Swap Case"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"indentxml",
+			"__init__.py",
+			"FTPSYNC",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/Ch1"
+	],
+	"file_history":
+	[
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/r16_prt_array.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/Ch1/r16_ptr_array.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/Ch1/r14_str_cat.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/r15_parenthesize.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/Ch1/r03_pair.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/Ch1/pair.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/Ch1/var_names.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/Ch1/smallest_largest.cpp",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/C++11/messages/install.txt",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/Ch1/var_names",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/C++ Snippets/MySnippets/newcpp.sublime-snippet",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/8/linked_list.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/DSandAlgosInC++/test.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/10/cmdline_params.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/10/files.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/CLRS/Ch10/stack.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/7/higher_order_fn.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/test.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/11/operators.cpp",
+		"/Users/Chaitanya/.bash_profile",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/DSandAlgosCPP",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/10/test",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/6/string_functions.h",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/6/url_identifier.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/6/split.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/7/split.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/7/maps.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/test",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/hello_world",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/5/break_string.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/5/framing.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/4/factorial.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/4/factMain.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/4/structures.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/5/iter.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/5/student_iter.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/4/factorial.h",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/4/a.out",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/1/cout_test.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/hello_world.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/test.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/Acclerated C++/Ch1/framing.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/for (unsigned i = 0; i < 10; ++i)\n    {\n        cout << arr[i]<<endl;\n    /Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/arrays_ex333.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch6/factMain.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch6/fact.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch6/Chapter6.hpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/arrays_ex333.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/iters.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/pointer_test.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/arrays_ex1.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/arrays_ex331.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/arrays_ex2.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/strings_test.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/arrays_337.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/arrays_335.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/arrays_334.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch4/ex_421.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch4/ex_420.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/C++ hazy topics:",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch4/ex_424.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch4/test.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch4/ex45.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch4/ex41.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch6/swap.cpp",
+		"/Users/Chaitanya/Google Drive/Rubiks!",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/Python/HelloWorld.py",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch1/const_test.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch1/consts.cpp",
+		"/Users/Chaitanya/Google Drive/Career/CoverLetter - WIP.txt",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/vectors_ex318.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/iter_test.cpp",
+		"/Users/Chaitanya/Google Drive/Intern_Applications.txt",
+		"/Users/Chaitanya/Google Drive/FL.TODO",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/length.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/concat.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/upper.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/test.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/vectors_ex.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/line_input.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/Ch3/strings.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/structures.cpp",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/User/newcpp.sublime-snippet ",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/User/newcpp.sublime-snippet",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/C++ Snippets/utilities/using.sublime-snippet",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/strings",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/C++ Primer/structures",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/User/iostream.snippet",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/HelloWorld.cpp",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C++/HelloWorld.CPP",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C/TempConverter.c",
+		"/Users/Chaitanya/Downloads/Hr-Ids",
+		"/Users/Chaitanya/Desktop/Operating Systems Lecture 2.txt",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/C/HelloWorld.c",
+		"/Users/Chaitanya/Desktop/Operating Systems Lecture 2",
+		"/Users/Chaitanya/Downloads/Links.txt",
+		"/Users/Chaitanya/Downloads/ TXT- LC Sample Definitions.txt",
+		"/Users/Chaitanya/Downloads/Reserve Books in SEL",
+		"/Users/Chaitanya/Downloads/RUNNING THE LAMBDA CALCULUS TOOL",
+		"/Users/Chaitanya/UB Courses/505/Assignments/Assignment 2/TestCases/prime.txt",
+		"/Users/Chaitanya/UB Courses/505/Assignments/Assignment 2/TestCases/max3.txt",
+		"/Users/Chaitanya/UB Courses/505/Assignments/Assignment 2/TestCases/factorial.txt",
+		"/Users/Chaitanya/UB Courses/505/Assignments/Assignment 2/TestCases/GCD.txt",
+		"/Users/Chaitanya/Desktop/flatten.sml",
+		"/Users/Chaitanya/Desktop/Prolog/test.pl",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/Java/DecoratorPattern.java",
+		"/Users/Chaitanya/Google Drive/Work/IDE free programming/Java/VisitorPattern.java",
+		"/Users/Chaitanya/Google Drive/Master.TODO",
+		"/Users/Chaitanya/Desktop/outputLog",
+		"/Users/Chaitanya/Desktop/reln",
+		"/Users/Chaitanya/Music/iTunes/iTunes Media/Automatically Add to iTunes.localized/.localized/Japanese.strings",
+		"/Users/Chaitanya/.Trash/solr-4.10.2/licenses/jackson-annotations-LICENSE-ASL.txt",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 2/Packages/C++/template-typename-..-(template).sublime-snippet",
+		"/Users/Chaitanya/.dropbox/finderplugin/toolbar_index",
+		"/Users/Chaitanya/Desktop/Java/HelloWorld.java",
+		"/Users/Chaitanya/Desktop/Java/Pair.java",
+		"/Users/Chaitanya/Desktop/FL.TODO",
+		"/Users/Chaitanya/.matplotlib/fontList.cache",
+		"/Users/Chaitanya/.swipl-dir-history/F4======",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Sunburst.tmTheme",
+		"/Users/Chaitanya/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Chaitanya/Downloads/solr-4.10.1"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"brac",
+			"||",
+			"10",
+			"i_think_i_am_valid",
+			" ",
+			"Operators",
+			"operators",
+			"file",
+			"v",
+			"str",
+			"auto",
+			"cout << (*b).name << \"\\t\" << (*b).age;",
+			"b",
+			"s2",
+			"s1",
+			"s",
+			"d?Math.max(0,a.length+d):d;if(_.t(a))return _.t(c)&&1==c.length?a.indexOf(c,d):-1;for(;dc&&(c=0);a.b.style.width=c+\"px\";d=a.b.offsetWidth-d;a.b.style.width=d+\"px\";return d-e},Dk=function(a){var c=a.b.style.width;a.b.style.width=\"\";return c};\\nvar Hk=function(a,c,d){var e;void 0==e&&(e=-1);return{className:a,eb:{Ec:c||0,Tc:d||0,Qb:e}}},Ik={className:\"gb_Ub\",items:[Hk(\"gb_Na\"),Hk(\"gb_ac\"),Hk(\"gb_Cb\",0,2),Hk(\"gb_bc\"),Hk(\"gb_7\",1,1)],bb:[{className:\"gb_7\",items:[Hk(\"gb_Cc\",0,1),Hk(\"gb_Bc\",0,1)],bb:[function(a){a=a.gb_Cc;var c;if(a)c=a.M();else{c=window.document.querySelector(\".gb_Cc\");if(!c)return null;a=new Ak(c)}c=c.querySelectorAll(\".gb_g\");for(var d=0;dc&&(a.o=0,a.w(new qk))}};_.Mk.prototype.K=function(a){this.C.push(a)};_.Mk.prototype.R=function(a){var c=Nk().es.h;this.le=c+a;for(a=0;a(0,window.parseFloat)(a[1])&&(this.d=!0)};_.w(Zk,_.x);\\nvar $k=function(a,c,d){if(!a.d)if(d instanceof Array)for(var e in d)$k(a,c,d[e]);else{e=(0,_.u)(a.A,a,c);var f=a.w+d;a.w++;c.setAttribute(\"data-eqid\",f);a.o[f]=e;c&&c.addEventListener?c.addEventListener(d,e,!1):c&&c.attachEvent?c.attachEvent(\"on\"+d,e):_.I(Error(\"V`\"+c))}};\\nZk.prototype.Se=function(a,c){if(this.d)return null;if(c instanceof Array){var d=null,e;for(e in c){var f=this.Se(a,c[e]);f&&(d=f)}return d}d=null;this.b&&this.b.type==c&&this.k==a&&(d=this.b,this.b=null);if(e=a.getAttribute(\"data-eqid\"))a.removeAttribute(\"data-eqid\"),(e=this.o[e])?a.removeEventListener?a.removeEventListener(c,e,!1):a.detachEvent&&a.detachEvent(\"on\"+c,e):_.I(Error(\"W`\"+a));return d};Zk.prototype.A=function(a,c){this.b=c;this.k=a;c.preventDefault?c.preventDefault():c.returnValue=!1};\\n_.za(\"eq\",new Zk);var al=function(){_.x.call(this);this.ke=[];this.hd=[]};_.w(al,_.x);al.prototype.b=function(a,c){this.ke.push({tc:a,options:c})};al.prototype.init=function(){window.gapi={};var a=_.Cj(),c=window.___jsl={};c.h=_.G(_.A(a,1));c.ms=_.G(_.A(a,2));c.m=_.G(_.A(a,3));c.l=[];a=_.D(_.J(),_.Bj,5)||new _.Bj;_.A(a,1)&&(a=_.A(a,3))&&this.hd.push(a);a=_.D(_.J(),_.gk,6)||new _.gk;_.A(a,1)&&(a=_.A(a,2))&&this.hd.push(a);_.v(\"gapi.load\",(0,_.u)(this.b,this));return this};\\nvar bl=_.Cj();window.__PVT=_.G(_.A(bl,7));_.za(\"gs\",(new al).init());(function(){for(var a=function(a){return function(){_.V(44,{n:a})}},c=0;c+You",
+			"RUUR'U'RU'R'",
+			"put_back",
+			".\n",
+			"const",
+			"vv",
+			"(&vv",
+			"is",
+			"(",
+			"a",
+			"\n	",
+			"std::",
+			"a",
+			" $",
+			"$v$",
+			"$v",
+			"“",
+			"        \n",
+			"hili",
+			"hilight",
+			" \n",
+			"revappend",
+			"use_module",
+			"highlight_",
+			"Finish",
+			"move",
+			"Q",
+			"Path",
+			"path",
+			"B",
+			"A",
+			"travel",
+			"Destn",
+			"To",
+			"From",
+			"kbnm",
+			"spell",
+			"/select\" ",
+			"content",
+			"CONTENT",
+			"/select",
+			" /select",
+			"<searchcomp",
+			"searchcomp",
+			"/select",
+			"select",
+			"searchComponent",
+			"/spellchec",
+			"spellchec",
+			"/spell",
+			"requestha",
+			"found",
+			"tokeni",
+			"text",
+			"df",
+			"dfd",
+			"df",
+			"id",
+			"content<",
+			"text",
+			"defaultsea",
+			"requesthan",
+			"types",
+			"page",
+			"mediawiki",
+			"requesthan",
+			"lib",
+			"<lib dir=\"../../../contrib/dataimporthandler/lib\" regex=\".*\\.jar\" />",
+			"text\"",
+			"text",
+			"id",
+			"uniq",
+			"long",
+			"_vers",
+			"date",
+			"...",
+			"colo",
+			"no css",
+			"demo",
+			"\n		",
+			"meta",
+			")))",
+			"8",
+			"port",
+			"v",
+			"V",
+			"v",
+			"line",
+			"move",
+			"b",
+			"“",
+			"“f",
+			"”",
+			"“",
+			"text_general",
+			"3007WFP",
+			"open_files_in_new_window",
+			"ctrl+shift",
+			"adobe",
+			" ",
+			"if",
+			"\n	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Ch1/r16_ptr_array.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Ch1/r16_ptr_array",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 21570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "DSandAlgosInC++.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"t.java",
+				"Desktop/Java/Test.java"
+			],
+			[
+				"fl.to",
+				"Desktop/FL.TODO"
+			],
+			[
+				"youtube",
+				"EclipseWorkspace/CorePractice/src/edu/ck/url/YoutubePlaylistTime.java"
+			],
+			[
+				"schema.xml",
+				".Trash/WebGoat-5.4 12.30.00 AM/lesson_solutions/WsSqlInjection_files/colorschememapping.xml"
+			],
+			[
+				".sml",
+				"UB Courses/505/SML/first.sml"
+			],
+			[
+				"fir",
+				"505/SML/first.sml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/SML/sml.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
